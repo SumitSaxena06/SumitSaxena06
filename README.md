@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SumitSaxena06
+- 👋 Hi, I’m Sumit Saxena
 - 👀 I’m interested in software development Roles
 - 🌱 I’m currently persuing B.Tech
 - 📫 contact me at sumit.saxena2701@gmail.com
